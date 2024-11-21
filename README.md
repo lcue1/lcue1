@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Luis Ubillus
 
 ## 🙌 Gracias por estar aquí!  🙌
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg3YzVzZ3IyOGFoZXV6bWhkcWd3a3V1eXdjb3g0NTh0Z2s5em85MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDfulMGefshaQBW/giphy.gif" alt="Coding" style="width: 80%; height:200px;">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg3YzVzZ3IyOGFoZXV6bWhkcWd3a3V1eXdjb3g0NTh0Z2s5em85MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDfulMGefshaQBW/giphy.gif" alt="Coding" style="width: 800px; height:200px;">
 
 <h2>Luis Ubillus, de 35 años, es un apasionado estudiante de Desarrollo de Software que reside en la vibrante ciudad de Quito, Ecuador. En su trayectoria académica </h2>
 

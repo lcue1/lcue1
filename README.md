@@ -19,5 +19,5 @@
 ### 💬 Contacto
 - [Sitio](https://github.com/lcue1/)
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNrOGd6c3R0OWk2dG9yNG56MWNnYzY3Z3BmZW5qdnNxcWdrYzJvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" alt="Coding" style="width: 100%; height:200px;">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNrOGd6c3R0OWk2dG9yNG56MWNnYzY3Z3BmZW5qdnNxcWdrYzJvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" alt="Coding" style="width: 800px; height:200px;">
 

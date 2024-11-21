@@ -21,7 +21,8 @@
 
 ### 🌐 Redes Sociales
 
+
 - [![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/tuusuario)
-- [![Twitter](https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_2021.svg)](https://twitter.com/tuusuario)
+- [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://twitter.com/tuusuario)
 - [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/tuusuario)
-- [![TikTok](https://upload.wikimedia.org/wikipedia/commons/6/6a/TikTok_logo_2021.svg)](https://www.tiktok.com/@tuusuario)
+- [![TikTok](https://upload.wikimedia.org/wikipedia/commons/6/69/TikTok_logo_2021.svg)](https://www.tiktok.com/@tuusuario)

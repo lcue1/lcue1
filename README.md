@@ -1,9 +1,9 @@
 # ¡Hola! 👋 Soy Luis Ubillus
 
 ## 🙌 Gracias por estar aquí!  🙌
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg3YzVzZ3IyOGFoZXV6bWhkcWd3a3V1eXdjb3g0NTh0Z2s5em85MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDfulMGefshaQBW/giphy.gif" alt="Coding" style="width: 800px; height:400px;">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg3YzVzZ3IyOGFoZXV6bWhkcWd3a3V1eXdjb3g0NTh0Z2s5em85MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDfulMGefshaQBW/giphy.gif" alt="Coding" style="width: 800px; height:300px;">
 
-<h2>Luis Ubillus, de 35 años, es un apasionado estudiante de Desarrollo de Software que reside en la vibrante ciudad de Quito, Ecuador. En su trayectoria académica </h2>
+
 
 ---0
 
@@ -19,5 +19,7 @@
 ### 💬 Contacto
 - [Sitio](https://github.com/lcue1/)
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNrOGd6c3R0OWk2dG9yNG56MWNnYzY3Z3BmZW5qdnNxcWdrYzJvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" alt="Coding" style="width: 800px; height:200px;">
+<div>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNrOGd6c3R0OWk2dG9yNG56MWNnYzY3Z3BmZW5qdnNxcWdrYzJvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" alt="Coding" style="width: 100%; height:200px;">
+</div>
 

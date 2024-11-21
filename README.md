@@ -19,7 +19,9 @@
 ### 💬 Contacto
 - [Sitio](https://github.com/lcue1/)
 
-<div>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNrOGd6c3R0OWk2dG9yNG56MWNnYzY3Z3BmZW5qdnNxcWdrYzJvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" alt="Coding" style="width: 100%; height:200px;">
-</div>
+### 🌐 Redes Sociales
 
+- [![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/tuusuario)
+- [![Twitter](https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_2021.svg)](https://twitter.com/tuusuario)
+- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/tuusuario)
+- [![TikTok](https://upload.wikimedia.org/wikipedia/commons/6/6a/TikTok_logo_2021.svg)](https://www.tiktok.com/@tuusuario)

@@ -44,4 +44,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013_2019.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
   </a>
 </div>
-<div class="tenor-gif-embed" data-postid="14904361" data-share-method="host" data-aspect-ratio="1.35021" data-width="100%"><a href="https://tenor.com/view/muslim-cyber-army-codes-gif-14904361">Muslim Cyber Army GIF</a>from <a href="https://tenor.com/search/muslim-gifs">Muslim GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
+![Gif animado](https://tenor.com/baHs5.gif)

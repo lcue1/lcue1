@@ -8,7 +8,7 @@
 ---0
 
 ### 📌 Conocimientos
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div style="display: flex; justify-content: space-between; gap: 20px; width: 100%; max-width: 600px; margin: 0 auto;">
   <a href="https://www.facebook.com/tuusuario" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 50px; height: 50px;">
   </a>
